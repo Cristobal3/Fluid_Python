@@ -1,2 +1,2 @@
 # Fluid_Python
-First Django project
+First Django project focusing on providing graphs.
